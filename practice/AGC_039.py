@@ -1,3 +1,4 @@
+# A
 import re
 
 s = input()
